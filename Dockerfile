@@ -1,6 +1,6 @@
 FROM node:latest
 
-ARG PORT=9000
+ARG PORT=3001
 
 WORKDIR /usr/src/app
 
